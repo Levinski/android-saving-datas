@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "240890873270",
+    "firebase_url": "https://nowrite-93cdf.firebaseio.com",
+    "project_id": "nowrite-93cdf",
+    "storage_bucket": "nowrite-93cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240890873270:android:7604b8c7f2dcd7f8",
+        "android_client_info": {
+          "package_name": "com.jhonatanlevinskidelima.saving_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240890873270-pkhur2t33h7bgs9tnei33dptijh5adh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwhHzB3x0CPngWrEe9tuK-nR236SJqSOA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
